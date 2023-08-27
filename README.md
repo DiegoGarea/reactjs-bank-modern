@@ -4,7 +4,7 @@ Welcome to the repository of our website built with React Vite and styled using 
 
 <hr/>
 
-![pngwing com](https://github.com/DiegoGarea/reactjs-bank-modern/assets/124759506/4a42fe3b-917b-4270-ac41-208253a4d9d9) ![png-transparent-tailwind-css-hd-logo](https://github.com/DiegoGarea/reactjs-bank-modern/assets/124759506/835a1ee8-897c-4948-99e0-46611b13fd97)
+![pngwing com](https://github.com/DiegoGarea/reactjs-bank-modern/assets/124759506/4a42fe3b-917b-4270-ac41-208253a4d9d9) ![tailwind](https://github.com/DiegoGarea/reactjs-bank-modern/assets/124759506/c0be9b6d-01b3-4f4b-ba4c-4a7843e3ab63)
 
 <hr/>
 
